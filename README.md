@@ -1,4 +1,4 @@
-# Calculadora Geométrica
+# Calculadora Geométrica ✏️
 
 ## O programa inicia com um menu contendo as diferentes opções de cálculas. 
 ## As opções devem ser:
