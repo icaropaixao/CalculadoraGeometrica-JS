@@ -4,14 +4,13 @@
 // menu
 function menu(){
     prompt("Olá!\n" + 
-        "Escolha uma das operações que deseja realizar\n")
-        const opcao = ("1. Calcular área do triângulo\n" + 
+        "Escolha uma das operações que deseja realizar\n" +
+        "1. Calcular área do triângulo\n" + 
         "2. Calcular área do retângulo\n" +
         "3. Calcular área do quadrado\n" +
         "4. Calcular área do trapézio\n" +
         "5. Calcular área do círculo\n" +
         "6. Sair")
-        
         switch(opcao){
 
             // triângulo
