@@ -49,7 +49,7 @@ function calcCirculo(){
 
 // function para menu
 function menu(){
-    // deve colocar um return no menu para funcionar 
+    // deve colocar um return no prompt 
     return prompt("Olá!\n" + 
         "Escolha uma das operações que deseja realizar\n" +
         "1. Calcular área do triângulo\n" + 
