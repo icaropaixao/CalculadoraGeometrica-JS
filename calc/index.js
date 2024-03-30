@@ -1,7 +1,6 @@
 
-
 // Calculadora geometrica em JavaScrip com functions
-
+ 
 
 // funções para os calculos
 function calcTringulo(){
